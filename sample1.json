@@ -1,0 +1,98 @@
+[
+  {
+    "Sensor Type": "Air quality sensor 1",
+    "TimeStamp": "08-03-2022 12:00",
+    "CO2": 3547,
+    "Humidity": 126.4,
+    "Temperature": 71.2,
+    "TVOC": 2901
+  },
+  {
+    "Sensor Type": "Air quality sensor 1",
+    "TimeStamp": "08-03-2022 12:00",
+    "CO2": 3281,
+    "Humidity": 121,
+    "Temperature": 73,
+    "TVOC": 2823
+  },
+  {
+    "Sensor Type": "Air quality sensor 1",
+    "TimeStamp": "08-03-2022 12:00",
+    "CO2": 3313,
+    "Humidity": 112,
+    "Temperature": 77,
+    "TVOC": 2836
+  },
+  {
+    "Sensor Type": "Air quality sensor 1",
+    "TimeStamp": "08-03-2022 12:00",
+    "CO2": 2493,
+    "Humidity": 90.35,
+    "Temperature": 45.48,
+    "TVOC": 1885
+  },
+  {
+    "Sensor Type": "Air quality sensor 1",
+    "TimeStamp": "08-03-2022 12:00",
+    "CO2": 2499,
+    "Humidity": 80.7,
+    "Temperature": 47.1,
+    "TVOC": 1911
+  },
+  {
+    "Sensor Type": "Air quality sensor 1",
+    "TimeStamp": "08-03-2022 12:00",
+    "CO2": 2033,
+    "Humidity": 77,
+    "Temperature": 48,
+    "TVOC": 1938
+  },
+  {
+    "Sensor Type": "Air quality sensor 2",
+    "TimeStamp": "08-03-2022 12:01",
+    "CO2": 3011,
+    "Humidity": 127.7,
+    "Temperature": 68.96,
+    "TVOC": 2941
+  },
+  {
+    "Sensor Type": "Air quality sensor 2",
+    "TimeStamp": "08-03-2022 12:01",
+    "CO2": 3585,
+    "Humidity": 105,
+    "Temperature": 77,
+    "TVOC": 2763
+  },
+  {
+    "Sensor Type": "Air quality sensor 2",
+    "TimeStamp": "08-03-2022 12:01",
+    "CO2": 3430,
+    "Humidity": 130.7,
+    "Temperature": 69.1,
+    "TVOC": 2935
+  },
+  {
+    "Sensor Type": "Air quality sensor 2",
+    "TimeStamp": "08-03-2022 12:01",
+    "CO2": 2032,
+    "Humidity": 77,
+    "Temperature": 46,
+    "TVOC": 1841
+  },
+  {
+    "Sensor Type": "Air quality sensor 2",
+    "TimeStamp": "08-03-2022 12:01",
+    "CO2": 2067,
+    "Humidity": 77.35,
+    "Temperature": 49.48,
+    "TVOC": 1916
+  },
+  {
+    "Sensor Type": "Air quality sensor 2",
+    "TimeStamp": "08-03-2022 12:01",
+    "CO2": 2280,
+    "Humidity": 69,
+    "Temperature": 47,
+    "TVOC": 1811
+  }
+]
