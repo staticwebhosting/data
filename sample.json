@@ -1,0 +1,722 @@
+[
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:00",
+    "reading": 22.1
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:00",
+    "reading": 45.7
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:00",
+    "reading": 990
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:00",
+    "reading": 1240
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:00",
+    "reading": 22.48
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:00",
+    "reading": 42.35
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:00",
+    "reading": 995
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:00",
+    "reading": 1000
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:10",
+    "reading": 24
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:10",
+    "reading": 43
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:10",
+    "reading": 951
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:10",
+    "reading": 1011
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:10",
+    "reading": 25
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:10",
+    "reading": 35
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:10",
+    "reading": 921
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:10",
+    "reading": 1259
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:20",
+    "reading": 27
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:20",
+    "reading": 35
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:20",
+    "reading": 921
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:20",
+    "reading": 1067
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:20",
+    "reading": 23
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:20",
+    "reading": 42
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:20",
+    "reading": 994
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:20",
+    "reading": 1179
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:30",
+    "reading": 23
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:30",
+    "reading": 48
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:30",
+    "reading": 890
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:30",
+    "reading": 1493
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:30",
+    "reading": 22
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:30",
+    "reading": 34
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:30",
+    "reading": 890
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:30",
+    "reading": 1021
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:40",
+    "reading": 22.1
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:40",
+    "reading": 45.7
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:40",
+    "reading": 990
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:40",
+    "reading": 1240
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:40",
+    "reading": 22.48
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:40",
+    "reading": 42.35
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:40",
+    "reading": 995
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:40",
+    "reading": 1000
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:50",
+    "reading": 24
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:50",
+    "reading": 43
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:50",
+    "reading": 951
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:50",
+    "reading": 1011
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:00:50",
+    "reading": 25
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:00:50",
+    "reading": 35
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:00:50",
+    "reading": 921
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:00:50",
+    "reading": 1259
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:00",
+    "reading": 27
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:00",
+    "reading": 35
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:00",
+    "reading": 921
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:00",
+    "reading": 1067
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:00",
+    "reading": 24
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:00",
+    "reading": 43
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:00",
+    "reading": 951
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:00",
+    "reading": 1011
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:10",
+    "reading": 25
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:10",
+    "reading": 35
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:10",
+    "reading": 921
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:10",
+    "reading": 1259
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:10",
+    "reading": 27
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:10",
+    "reading": 35
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:10",
+    "reading": 921
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:10",
+    "reading": 1067
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:20",
+    "reading": 23
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:20",
+    "reading": 42
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:20",
+    "reading": 994
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:20",
+    "reading": 1179
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:20",
+    "reading": 22.1
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:20",
+    "reading": 45.7
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:20",
+    "reading": 990
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:20",
+    "reading": 1240
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:30",
+    "reading": 22.48
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:30",
+    "reading": 42.35
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:30",
+    "reading": 995
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:30",
+    "reading": 1000
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:30",
+    "reading": 24
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:30",
+    "reading": 43
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:30",
+    "reading": 951
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:30",
+    "reading": 1011
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:40",
+    "reading": 25
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:40",
+    "reading": 35
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:40",
+    "reading": 921
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:40",
+    "reading": 1259
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:40",
+    "reading": 27
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:40",
+    "reading": 35
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:40",
+    "reading": 921
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:40",
+    "reading": 1067
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:50",
+    "reading": 24
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:50",
+    "reading": 34
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:50",
+    "reading": 987
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:50",
+    "reading": 1022
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:01:50",
+    "reading": 22
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:01:50",
+    "reading": 34
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:01:50",
+    "reading": 890
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:01:50",
+    "reading": 1021
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:02:00",
+    "reading": 22.1
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:02:00",
+    "reading": 45.7
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:02:00",
+    "reading": 990
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:02:00",
+    "reading": 1240
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:02:00",
+    "reading": 22.48
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:02:00",
+    "reading": 42.35
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:02:00",
+    "reading": 995
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:02:00",
+    "reading": 1000
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:02:10",
+    "reading": 24
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:02:10",
+    "reading": 43
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:02:10",
+    "reading": 951
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:02:10",
+    "reading": 1011
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:02:10",
+    "reading": 25
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:02:10",
+    "reading": 35
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:02:10",
+    "reading": 921
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:02:10",
+    "reading": 1259
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:02:20",
+    "reading": 27
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:02:20",
+    "reading": 35
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:02:20",
+    "reading": 921
+  },
+  {
+    "sensor id": "Air quality sensor 1",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:02:20",
+    "reading": 1067
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Temperature",
+    "timestamp": "2022-03-08 12:02:20",
+    "reading": 24
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "Humidity",
+    "timestamp": "2022-03-08 12:02:20",
+    "reading": 43
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "TVOC",
+    "timestamp": "2022-03-08 12:02:20",
+    "reading": 951
+  },
+  {
+    "sensor id": "Air quality sensor 2",
+    "parameter": "CO2",
+    "timestamp": "2022-03-08 12:02:20",
+    "reading": 1011
+  }
+]
